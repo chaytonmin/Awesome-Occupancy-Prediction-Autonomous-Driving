@@ -1,6 +1,6 @@
 # Awesome-Occupancy-Prediction-Multi-Cameras
 
-<img src="/doc/tesla.jpg" width="100%"/>
+<img src="/doc/tesla.jpg" width="70%"/>
 
 #### Tesla's Occupancy Networks
 +  A Look at Tesla's Occupancy Networks[[blog](https://www.thinkautonomous.ai/blog/occupancy-networks/)]
@@ -21,7 +21,7 @@
 #### CVPR 2023 3D Occupancy Prediction Challenge
 + The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)]
 
-
+<img src="/doc/occupancy_1.gif" width="100%"/>
 
 
 
