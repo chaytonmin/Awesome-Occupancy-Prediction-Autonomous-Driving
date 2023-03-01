@@ -1,7 +1,7 @@
 # Awesome-Occupancy-Prediction-Multi-Cameras
 
 #### Tesla's Occupancy Networks
-+  A Look at Tesla's Occupancy Networks[(https://www.thinkautonomous.ai/blog/occupancy-networks/)]
++  A Look at Tesla's Occupancy Networks[[blog](https://www.thinkautonomous.ai/blog/occupancy-networks/)]
 
 #### CVPR 2023
 + TPVFormer: Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2302.07817.pdf)] [[Github](https://github.com/wzzheng/TPVFormer)] 
