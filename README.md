@@ -1,9 +1,6 @@
 # Awesome-Occupancy-Prediction-Multi-Cameras
 
-<img src="./doc/occupanc_1.gif" width="100%">
-
-#### CVPR 2023 3D Occupancy Prediction Challenge
-+ The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)]
+<img src="./doc/occupanc_1.gif" width="70%">
 
 #### CVPR 2023
 + TPVFormer: Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2302.07817.pdf)] [[Github](https://github.com/wzzheng/TPVFormer)] 
@@ -17,6 +14,9 @@
 
 #### Datasets
 + Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
+
+#### CVPR 2023 3D Occupancy Prediction Challenge
++ The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)]
 
 #### Tesla's Occupancy Networks
 +  A Look at Tesla's Occupancy Networks [[CVPR2022 workshop](https://www.youtube.com/watch?v=KC8e0oTFUcw)][[Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=4403s)]
