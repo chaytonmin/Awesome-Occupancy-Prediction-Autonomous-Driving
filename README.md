@@ -4,6 +4,7 @@
 
 #### CVPR 2023
 + TPVFormer: Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2302.07817.pdf)] [[Github](https://github.com/wzzheng/TPVFormer)] 
++ VoxFormer: a Cutting-edge Baseline for 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/pdf/2302.12251.pdf)] [[Github](https://github.com/NVlabs/VoxFormer)] 
 
 #### Arxiv
 + OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network [[paper](https://arxiv.org/abs/2302.13540)] [[Github](https://github.com/megvii-research/OccDepth)]
