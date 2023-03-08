@@ -2,7 +2,7 @@
 
 <img src="./doc/occupanc_1.gif" width="70%">
 
-#### CVPR 2023
+#### CVPR 2022
 + MonoScene: Monocular 3D Semantic Scene Completion [[paper](https://arxiv.org/abs/2112.00726)] [[Github](https://github.com/astra-vision/MonoScene)] 
 
 #### CVPR 2023
