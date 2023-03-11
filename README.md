@@ -17,9 +17,6 @@
 + SurroundOcc [[paper](xx)] [[Github](https://github.com/weiyithu/SurroundOcc)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
 
-#### Occupancy Pre-training
-+ Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Occupancy-MAE)]
-
 #### Datasets
 + Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
