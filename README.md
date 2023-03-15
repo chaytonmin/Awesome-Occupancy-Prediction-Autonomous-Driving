@@ -28,7 +28,6 @@
 
 #### Tesla's Occupancy Networks
 +  A Look at Tesla's Occupancy Networks [[CVPR2022 workshop](https://www.youtube.com/watch?v=KC8e0oTFUcw)][[Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&t=4403s)]
-<img src="/doc/tesla.jpg" width="70%"/>
 
 #### Wechat Group
 <img src="/doc/WeChat.jpg" width="70%"/>
