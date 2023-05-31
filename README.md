@@ -16,12 +16,18 @@
 + OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network [[paper](https://arxiv.org/abs/2302.13540)] [[Github](https://github.com/megvii-research/OccDepth)]
 + SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
++ OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2304.05316)] [[Github](https://github.com/zhangyp15/OccFormer)]
++ BEVDet for occupancy: [[Github](https://github.com/HuangJunJie2017/BEVDet/tree/dev2.1/configs/bevdet_occ)]
 
 #### Datasets
-+ Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
++ Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://arxiv.org/abs/2304.14365)] [[Github](https://github.com/Tsinghua-MARS-Lab/Occ3D)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
 + SurroundOcc [[paper](xx)] [[Github](https://github.com/weiyithu/SurroundOcc)]
-+ The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)]
++ Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
+
+#### Pre-training
++ Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)][[Github](https://github.com/chaytonmin/Occ-BEV)]
++ Occupancy-MAE: Self-supervised Pre-training Large-scale LiDAR Point Clouds with Masked Occupancy Autoencoders [[paper](https://arxiv.org/abs/2206.09900)][[Github](https://github.com/chaytonmin/Occupancy-MAE)]
 
 #### CVPR 2023 3D Occupancy Prediction Challenge
 + The world's First 3D Occupancy Benchmark for Scene Perception in Autonomous Driving [[Github](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)]
