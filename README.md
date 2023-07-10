@@ -18,12 +18,22 @@
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
 + OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction [[paper](https://arxiv.org/abs/2304.05316)] [[Github](https://github.com/zhangyp15/OccFormer)]
 + BEVDet for occupancy: [[Github](https://github.com/HuangJunJie2017/BEVDet/tree/dev2.1/configs/bevdet_occ)]
++ SimpleOccupancy: A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving [[paper](https://arxiv.org/abs/2303.10076)] [[Github](https://github.com/GANWANSHUI/SimpleOccupancy)]
++ OVO: Open-Vocabulary Occupancy [[paper](https://arxiv.org/abs/2305.16133)] [[Github](https://github.com/dzcgaara/OVO-Open-Vocabulary-Occupancy)]
++ FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation[[paper](https://arxiv.org/abs/2307.01492)] [[Github](https://github.com/NVlabs/FB-BEV)]
++ UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering [[paper](https://arxiv.org/abs/2306.09117)] 
 
-#### Datasets
+#### Occupancy Datasets
 + Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving [[paper](https://arxiv.org/abs/2304.14365)] [[Github](https://github.com/Tsinghua-MARS-Lab/Occ3D)]
 + OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception [[paper](https://arxiv.org/abs/2303.03991)] [[Github](https://github.com/JeffWang987/OpenOccupancy)]
-+ SurroundOcc [[paper](xx)] [[Github](https://github.com/weiyithu/SurroundOcc)]
++ SurroundOcc [[paper](https://arxiv.org/abs/2303.09551)] [[Github](https://github.com/weiyithu/SurroundOcc)]
 + Occupancy Dataset for nuScenes [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes)]
++ SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving [[paper](https://arxiv.org/abs/2306.09001)] [[Github](https://github.com/ai4ce/SSCBench)]
++ Scene as Occupancy [[paper](https://arxiv.org/abs/2306.02851)] [[Github](https://github.com/OpenDriveLab/OccNet)]
+
+#### Code for Occupancy Generation 
++ multi-frame fusion [[Github](https://github.com/FANG-MING/occupancy-for-nuscenes/blob/main/data_converter.py)]
++ Poisson reconstruction [[Github](https://github.com/weiyithu/SurroundOcc/blob/main/tools/generate_occupancy_with_own_data/process_your_own_data.py)]
 
 #### Pre-training
 + Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction [[paper](https://arxiv.org/abs/2305.18829)][[Github](https://github.com/chaytonmin/Occ-BEV)]
